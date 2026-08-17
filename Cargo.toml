@@ -1,5 +1,5 @@
 [package]
-name = "argo2"
+name = "argon2"
 version = "0.1.0"
 authors = ["tuna2134 <hello@tuna2134.dev>"]
 edition = "2018"
