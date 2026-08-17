@@ -1,6 +1,6 @@
 [package]
 name = "argon2-cfworker"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["tuna2134 <hello@tuna2134.dev>"]
 edition = "2018"
 
